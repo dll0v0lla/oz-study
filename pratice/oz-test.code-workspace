@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../oz-test/oz-test"
+		},
+		{
+			"name": "oz-study",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "oz-test"
+	}
+}
